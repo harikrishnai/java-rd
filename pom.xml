@@ -15,7 +15,7 @@
     <description>Java-RD</description>
     <properties>
         <java.version>17</java.version>
-        <sonar.login>sqp_45817559dfcac6d583b40824273ca99df4525cbd</sonar.login>
+        <sonar.login>sqp_b31f18fd113dfb8366cb68032406cd29de9aff38</sonar.login>
         <sonar.projectKey>test</sonar.projectKey>
         <sonar.projectName>test</sonar.projectName>
     </properties>
